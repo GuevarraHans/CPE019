@@ -3,3 +3,4 @@ colab link: https://drive.google.com/file/d/1_ogkbGRsu5eLRb15FCLyN7u8xC1N7TLl/vi
 REFERENCES:
 https://www.analyticsvidhya.com/blog/2021/06/complete-guide-to-prevent-overfitting-in-neural-networks-part-1/
 https://medium.com/@penpencil.blr/what-is-the-difference-between-training-loss-validation-loss-and-evaluation-loss-c169ddeccd59#:~:text=In%20summary%2C%20training%20loss%20is,generalization%20performance%20on%20unseen%20data.
+https://medium.com/@rsvmukhesh/determining-the-number-of-epochs-d8b3526d8d06#:~:text=Overfitting%3A%20Continuing%20to%20train%20the,examples%20in%20the%20training%20data.
